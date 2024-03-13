@@ -1,0 +1,1333 @@
+﻿{
+  "3171636734": {
+    "Name": "Gameplay Info",
+    "ID": 3171636734,
+    "UnityTypeHashes": {
+      "10044909510294410536": "MessIndicatorView",
+      "17602756788328222868": "CMessIndicator"
+    }
+  },
+  "3167874211": {
+    "Name": "Use More Garage Items",
+    "ID": 3167874211,
+    "UnityTypeHashes": {
+      "5782711860693754661": "AddToRunView",
+      "12574894784599584091": "CAddToRun"
+    }
+  },
+  "3166347275": {
+    "Name": "Modded Contracts",
+    "ID": 3166347275,
+    "UnityTypeHashes": {
+      "9038542752079425272": "CContractPedestalCycleRequest",
+      "13931654747931023547": "CContractBasket",
+      "5568968886741842368": "CContractOption",
+      "14202504330740224335": "CContractPedestal"
+    }
+  },
+  "3161287998": {
+    "Name": "Speedrun Layouts",
+    "ID": 3161287998,
+    "UnityTypeHashes": {
+      "3355730252932713159": "CRefreshLayoutsActivator"
+    }
+  },
+  "3160568098": {
+    "Name": "Spaghetti Rework",
+    "ID": 3160568098,
+    "UnityTypeHashes": {
+      "6541550312191160": "CDrainable",
+      "11822693916222373486": "CDrain"
+    }
+  },
+  "3156498389": {
+    "Name": "Move Layout Features",
+    "ID": 3156498389,
+    "UnityTypeHashes": {
+      "7113075029084486975": "SMoveRequest"
+    }
+  },
+  "3147953632": {
+    "Name": "Achievement Tracker",
+    "ID": 3147953632,
+    "UnityTypeHashes": {
+      "7006329005803970753": "AchievementIcon",
+      "11791243659222959400": "AchievementsTrackerView",
+      "13605770441195646106": "SAchievementsTracker",
+      "11913747188989499453": "CAchievementItem"
+    }
+  },
+  "3143329690": {
+    "Name": "Pets",
+    "ID": 3143329690,
+    "UnityTypeHashes": {
+      "6067078254504241861": "PetEditorView",
+      "8966152158932410165": "PetRequestView",
+      "5709111328031088816": "PetView",
+      "14631812634448378674": "GridMenuEditorConfig",
+      "2902677870539662370": "GridMenuPetConfig",
+      "10078805400073694456": "Pet",
+      "18272333084570056447": "CCurrentSpeed",
+      "17065458804786724932": "CDefaultState",
+      "18407508193591446720": "CDisplayPet",
+      "16260872757670481904": "CHasDisplayPet",
+      "15715250544634334810": "CPet",
+      "11045577435638491643": "CPetBed",
+      "17848928795582940420": "CPetStuckChecker",
+      "142431988710934851": "CRequestNameChange",
+      "7174046812813279813": "CRequestStateChange",
+      "14035993762254586364": "SPetRequestView",
+      "12762893301719718175": "COccupiedByPet",
+      "15393706752914123140": "CPetInteractingWith",
+      "12675866158900873424": "CActivities",
+      "8619845275582308296": "CLonelyDistance",
+      "15496005503415996843": "CPreferredFoods",
+      "11022941199219401674": "CRoamNearOwner",
+      "11433469815936204504": "CSleepingPositionOffset",
+      "4958139490021919615": "CStandBackFromFood",
+      "7134383179606726786": "CStapleAppliances",
+      "11274789259422955526": "CPetEditorInfo",
+      "12737845313681139062": "CTriggerPetEditor",
+      "7915318404053188008": "CLinkedPet",
+      "11447192142870552409": "CRequestedPet",
+      "10600091649819829531": "CRequiresPet"
+    }
+  },
+  "3133712958": {
+    "Name": "Yippee Customers",
+    "ID": 3133712958,
+    "UnityTypeHashes": {
+      "6443126800744939073": "ControlAudio"
+    }
+  },
+  "3130243783": {
+    "Name": "I Can't See Your Order!",
+    "ID": 3130243783,
+    "UnityTypeHashes": {
+      "10475702182556885356": "ItemCollectionExpanderView",
+      "12609128334385265235": "CExpandOrders"
+    }
+  },
+  "3129332010": {
+    "Name": "Patience Percent",
+    "ID": 3129332010,
+    "UnityTypeHashes": {
+      "6805609493241197024": "PatiencePercentController"
+    }
+  },
+  "3105745301": {
+    "Name": "Walk This Way",
+    "ID": 3105745301,
+    "UnityTypeHashes": {
+      "14580081506559004885": "FlagView",
+      "5486220144762412578": "CCompletedIntercept",
+      "12008202441827634834": "CPathingPoint",
+      "9154947126027358237": "CPathIntercept",
+      "6980565763670946254": "CRequestNewPathingLocation",
+      "4184723646142260345": "CRequestPathingPoint",
+      "4823732875325671997": "CUnpathable"
+    }
+  },
+  "3076319454": {
+    "Name": "Renovation",
+    "ID": 3076319454,
+    "UnityTypeHashes": {
+      "47349998220664716": "CostIndicatorView",
+      "8887850042086298633": "DestructiveDrillView",
+      "4900802124660785358": "LitFuseView",
+      "8289616339913168279": "NightObjectView",
+      "3066279300567982558": "ParticleView",
+      "9997381710160413947": "PurchaseLightView",
+      "4968397223432960939": "RenovationView",
+      "3204949492173842855": "CBreachAfterDuration",
+      "996887824696819818": "CDestructiveTool",
+      "4098732010274254211": "CDynamite",
+      "4577570477659477377": "CExplodeAfterDuration",
+      "6748329165203909362": "CInteractRemove",
+      "12775835473955075852": "CHatch",
+      "13886755981295677022": "CParticleEvent",
+      "18017022813939670927": "CDestroyAfterSpawning",
+      "7915242115146773675": "CNightObject",
+      "6109167365883088411": "CHasPurchase",
+      "5978154644110683564": "CInteractDisable",
+      "253655934110668678": "CIsDailyPurchase",
+      "10814171036380425227": "CPurchaseable",
+      "3614728412004201045": "CRampingCost",
+      "9991670453148538513": "CMobileBase",
+      "10316596183731670630": "CSpawnSpecialMobile",
+      "15453139749275284129": "CForwardMobile",
+      "6243110466891213498": "CDestructive",
+      "8808806329552759227": "CWallTargetedBy",
+      "9330771205454548956": "CDoorstop",
+      "14757007354556555951": "CReaching",
+      "665413540006981339": "CPlacedWall",
+      "15304700904786857354": "CRemovedWall",
+      "9243659966568708695": "CTargetableWall",
+      "5281990290822310870": "CCostIndicator",
+      "13637218159297325180": "SRebuildReachability",
+      "10845040600684603983": "SRenovation"
+    }
+  },
+  "3073206102": {
+    "Name": "Health Inspector",
+    "ID": 3073206102,
+    "UnityTypeHashes": {
+      "2558554011953428492": "CDirtyFeet",
+      "1271010541813906261": "CRat"
+    }
+  },
+  "3070499065": {
+    "Name": "BetterIllusionWall",
+    "ID": 3070499065,
+    "UnityTypeHashes": {
+      "7939681518002967147": "CReachabilityModifier",
+      "15621989493901348158": "CIllusionWallReachability"
+    }
+  },
+  "3070345931": {
+    "Name": "Happy Birthday, Potato!",
+    "ID": 3070345931,
+    "UnityTypeHashes": {
+      "18443824583738066058": "ConfettiSoundView",
+      "15722000425127820057": "ConfettiView",
+      "5530245126677767697": "CustomerToolSubview",
+      "6015831217142787591": "CCustomerTool",
+      "18328327418241076000": "CConfettiCreated"
+    }
+  },
+  "3060007269": {
+    "Name": "Infinite Reroll",
+    "ID": 3060007269,
+    "UnityTypeHashes": {
+      "11078587584516818654": "InfiniteRerollSubview",
+      "10425328903874482982": "CInfiniteReroll"
+    }
+  },
+  "3059520924": {
+    "Name": "Sweet Shop",
+    "ID": 3059520924,
+    "UnityTypeHashes": {
+      "5646090774171982679": "CottonCandyView",
+      "13070008426122350209": "CCottonCandyMachine"
+    }
+  },
+  "3056361617": {
+    "Name": "Player Teleporter",
+    "ID": 3056361617,
+    "UnityTypeHashes": {
+      "11741927481077943028": "CPortal"
+    }
+  },
+  "3052717359": {
+    "Name": "Automation Tracker",
+    "ID": 3052717359,
+    "UnityTypeHashes": {
+      "3062043639404950023": "TrackerDisplayView",
+      "15754083847093092212": "TrackerIndicatorView",
+      "8283930035505894143": "CTrackerDisplay",
+      "6029340888322454645": "CItemTrackerIndicator",
+      "9416866265996798622": "STrackerEnabled",
+      "14088421768162907498": "CItemTracker",
+      "6994931569585852449": "CItemTrackerID",
+      "8339238242242037126": "CPracticeOnly",
+      "3953126705643531598": "CTrackerBlueprint",
+      "7533350367956468111": "CTrackedDay",
+      "7117567765156248194": "STrackingItems",
+      "7001389878764770879": "CTrackerDisplaySurrogate",
+      "11681059678132101939": "CTrackedItem",
+      "828257006944219592": "CItemTrackerSurrogate"
+    }
+  },
+  "3051115697": {
+    "Name": "Integrated HQ",
+    "ID": 3051115697,
+    "UnityTypeHashes": {
+      "5616038795551509786": "ActivateSwitchView",
+      "4421768736708446465": "CreatedModsViewView",
+      "14650077618653300047": "FoodSelectionView",
+      "8048894658716421370": "ModdedProgressViewView",
+      "7157250098228105533": "SubscribedModsViewView",
+      "718876546883725180": "TapeEditorView",
+      "7176151456281632021": "TelevisionView",
+      "15435924910725977793": "SEventBoard",
+      "18194418134279829985": "CEventData",
+      "3786585257941574324": "STape",
+      "9155144665262943831": "STelevision",
+      "3815748557058591533": "STapePlayer",
+      "9014148698141579228": "STapeWriter",
+      "6146855704929400536": "CModRoomClears",
+      "12959260907611274672": "SModRoom",
+      "9608716171412422571": "SRebuildModRoom",
+      "8048370173541960823": "CFranchiseAppliance",
+      "9079826188937388631": "SFranchiseApplianceIndex",
+      "6965748355670111619": "SRebuildFranchiseAppliances",
+      "6147477864031086088": "CModRoomSwapper",
+      "15653115418008195179": "CFranchiseApplianceSwapper",
+      "9022550155646341262": "CChoiceRefresher",
+      "1993481851616957439": "CModdedUpgradeView",
+      "16134059916433838615": "CSubscribedModsView",
+      "12868507494868142581": "CCreatedModsView",
+      "1406616282343162348": "CModdedKitchenTutorialPrompt",
+      "14778138827591447264": "CFixedDishChoice",
+      "735406503891303573": "CFixedFoodPedestal",
+      "11290020269303810089": "CFoodPedestal",
+      "10028049585589919572": "CFoodSelector",
+      "10329685662929975578": "SInteractedEvents",
+      "13862569726794612780": "SEventPopup",
+      "4673912971330984956": "STriggerInteraction",
+      "15393055905481561184": "STriggerTapeEditor",
+      "2900623553776927274": "SHasTapeEditor",
+      "6987325481268950598": "STapeEditor",
+      "18334547893650691650": "SSelectedFood",
+      "7880302960660450024": "SRefreshFood"
+    }
+  },
+  "3050641738": {
+    "Name": "Jacket Potatoes",
+    "ID": 3050641738,
+    "UnityTypeHashes": {
+      "2761136122629303009": "JacketPotatoWithBeansItemGroupView",
+      "16722985398258949986": "JacketPotatoWithButterItemGroupView",
+      "12486670205533750032": "JacketPotatoWithTunaItemGroupView",
+      "5370079146013410313": "ComponentAccesserUtil"
+    }
+  },
+  "3048094827": {
+    "Name": "The Mess",
+    "ID": 3048094827,
+    "UnityTypeHashes": {
+      "7953270763634951806": "CGun",
+      "1372379839275021197": "CGunProvider",
+      "12267006322400714400": "STheMessHasBeenServed",
+      "18385921163414613515": "STheMessIsActive"
+    }
+  },
+  "3047567105": {
+    "Name": "Potato Soup",
+    "ID": 3047567105,
+    "UnityTypeHashes": {
+      "2356857766514632796": "PlainPotatoSoupCookedView",
+      "1756217466910259527": "PotatoesInMilkItemGroupView",
+      "6198604648940687411": "PotatoSoupPlainUncookedItemGroupView",
+      "11868569811036879863": "PotatoSoupServingItemGroupView"
+    }
+  },
+  "3047033163": {
+    "Name": "Better Customer Performance",
+    "ID": 3047033163,
+    "UnityTypeHashes": {
+      "769118128992667775": "CDidAttachCustomerView",
+      "10901854708947254210": "CFutureCustomerRequiresView"
+    }
+  },
+  "3042944128": {
+    "Name": "File Explorer",
+    "ID": 3042944128,
+    "UnityTypeHashes": {
+      "14599036157434394170": "Explorer"
+    }
+  },
+  "3041484250": {
+    "Name": "Platematica (Beta)",
+    "ID": 3041484250,
+    "UnityTypeHashes": {
+      "8854337113395159759": "HologramProjectorView",
+      "2478519327696499897": "ExportMenu",
+      "10151700270312926400": "IMGUIMenuVars",
+      "5206276643240610980": "ImportMenu",
+      "12109076878456609858": "CHologramProjector",
+      "14764430864657170526": "CHologramSpawner"
+    }
+  },
+  "3038801822": {
+    "Name": "Noclip",
+    "ID": 3038801822,
+    "UnityTypeHashes": {
+      "1430643037637348845": "NoClipPatcher"
+    }
+  },
+  "3035087763": {
+    "Name": "Dual Wielder",
+    "ID": 3035087763,
+    "UnityTypeHashes": {
+      "6454964569984398698": "PlayerSecondToolView",
+      "15898059992971694643": "CToolUserSecondHand"
+    }
+  },
+  "3029092363": {
+    "Name": "Layout Preview Tweaker",
+    "ID": 3029092363,
+    "UnityTypeHashes": {
+      "24828314525433270": "RotationLock"
+    }
+  },
+  "3026062968": {
+    "Name": "Ooo's tweak",
+    "ID": 3026062968,
+    "UnityTypeHashes": {
+      "18217127089934224728": "PrepGhostPatcher"
+    }
+  },
+  "3025702954": {
+    "Name": "Soup Dumplings (XLB)",
+    "ID": 3025702954,
+    "UnityTypeHashes": {
+      "9268089413912637619": "View",
+      "13185318408415021698": "View",
+      "8734360112365786396": "View",
+      "4874087473126786473": "View",
+      "14823548464295546419": "View",
+      "11393324267372231298": "View",
+      "16363306087876786424": "View"
+    }
+  },
+  "3021876947": {
+    "Name": "Trays Plus",
+    "ID": 3021876947,
+    "UnityTypeHashes": {
+      "13294836636570408873": "CRestrictedToolStorage"
+    }
+  },
+  "3019528608": {
+    "Name": "Ice Cream Parlour",
+    "ID": 3019528608,
+    "UnityTypeHashes": {
+      "7823482582517733196": "LimitedVariableProviderView",
+      "18415476086905392882": "CLimitedVariableProvider",
+      "4863067978093495401": "SInit"
+    }
+  },
+  "3015746674": {
+    "Name": "Rigged Upgrades",
+    "ID": 3015746674,
+    "UnityTypeHashes": {
+      "8989828507294984815": "PreferredUpgradeView",
+      "16135009621907804418": "UpgradeIndicator",
+      "2483830401353406312": "GridMenuApplianceConfig",
+      "17818187232023163117": "CTriggerUpgradeSelector",
+      "6873268859626439354": "CUpgradeInfo",
+      "2594567819242618697": "CPreferredUpgrade"
+    }
+  },
+  "3014864855": {
+    "Name": "Mini Legacy",
+    "ID": 3014864855,
+    "UnityTypeHashes": {
+      "17115637522671944532": "View",
+      "14796276487585991320": "View",
+      "14805395836321880595": "View",
+      "16664132687857100625": "View",
+      "2188248235330930131": "View",
+      "3358990637735410801": "View",
+      "14359439725739586176": "View",
+      "11950936886812964106": "View",
+      "11191790944758430914": "View",
+      "11529345785106129597": "View",
+      "7691714222271886452": "View",
+      "1182154650591711464": "View",
+      "1053632333078831809": "View",
+      "17882618545136631148": "View",
+      "8064009740811344101": "View"
+    }
+  },
+  "3013660590": {
+    "Name": "Modded Cosmetics Integration",
+    "ID": 3013660590,
+    "UnityTypeHashes": {
+      "10358014434883451447": "CustomGridMenuCosmeticConfig",
+      "1778409595377759535": "CustomGridMenuGenericConfig"
+    }
+  },
+  "3010623481": {
+    "Name": "Funny Things",
+    "ID": 3010623481,
+    "UnityTypeHashes": {
+      "3054170949538104072": "GarageDoorView",
+      "9617490203546001296": "CGarageDecorations",
+      "8195544868344372772": "CGarageDecorationsProxy",
+      "9148462134670419546": "CPlayerAutomaticRespawn",
+      "15727704721234116987": "CKillRequest",
+      "6280931134968839558": "CKillAfterDelay",
+      "18398391911020851848": "UniversalBehaviour"
+    }
+  },
+  "3008030318": {
+    "Name": "You Asked For It!",
+    "ID": 3008030318,
+    "UnityTypeHashes": {
+      "1179617328769511982": "CrateCountView",
+      "17038037209787842578": "ExplosionSoundView",
+      "316592359052045337": "ExplosionView",
+      "3285268067514385674": "FogView",
+      "4453694181933068638": "ParticleEmitterView",
+      "726984922065707546": "CCrateCountMarker",
+      "11114035717190311675": "CDestroyIfOnFireAtNight",
+      "4871592974180438210": "CRequestPuke",
+      "17492211090958764291": "CExplodedTable",
+      "15851100333052935570": "CKuluBin",
+      "12712204734643993008": "CFog",
+      "3419617606092492211": "CFogInRangePlayer",
+      "4951193819479128701": "CVelocity",
+      "6157153704272833205": "CWasOnFire"
+    }
+  },
+  "3007986429": {
+    "Name": "Speedrun Mod Checker",
+    "ID": 3007986429,
+    "UnityTypeHashes": {
+      "9918770401608383078": "CheckerView",
+      "6583425109168611549": "SCheckerView"
+    }
+  },
+  "3006183027": {
+    "Name": "Colored Teleporters",
+    "ID": 3006183027,
+    "UnityTypeHashes": {
+      "12246283470332478029": "TeleporterColorView"
+    }
+  },
+  "3005177837": {
+    "Name": "Advanced UI Reboot",
+    "ID": 3005177837,
+    "UnityTypeHashes": {
+      "8296185959968404775": "CElementDraggable",
+      "2825481373505912034": "CElementToggles",
+      "9225660049751920477": "CElementUIOption",
+      "642280297310206726": "CElementUpdated",
+      "718460664003445964": "CToggleState",
+      "4628585181376359452": "SIsUIReady"
+    }
+  },
+  "3001717371": {
+    "Name": "Overstocked",
+    "ID": 3001717371,
+    "UnityTypeHashes": {
+      "10739747368140554731": "CCrateItemProvider",
+      "9561980997947019943": "CCreateCrate"
+    }
+  },
+  "3001240009": {
+    "Name": "Everything Always",
+    "ID": 3001240009,
+    "UnityTypeHashes": {
+      "12449724584054315516": "BlanketView",
+      "16070212453306061378": "RandomFlowers",
+      "5840640000894464040": "RandomMaterials",
+      "1013511218496711199": "FilterBySide",
+      "17176858079736296564": "PadWithRandomRoom",
+      "9845604389910833884": "CBlanket"
+    }
+  },
+  "3000363081": {
+    "Name": "Goldfish Memory",
+    "ID": 3000363081,
+    "UnityTypeHashes": {
+      "11656778849596402465": "GroupMenuPhaseView"
+    }
+  },
+  "2994864960": {
+    "Name": "Item Constant Facing",
+    "ID": 2994864960,
+    "UnityTypeHashes": {
+      "15129490574278558681": "ConstantFacing"
+    }
+  },
+  "2990583436": {
+    "Name": "Easy Stuff",
+    "ID": 2990583436,
+    "UnityTypeHashes": {
+      "8245939219530429865": "CookedStuffingGroupView"
+    }
+  },
+  "2988674370": {
+    "Name": "Custom Themes",
+    "ID": 2988674370,
+    "UnityTypeHashes": {
+      "3436852350155681072": "ApplianceCustomDecorationView",
+      "5085824344479997132": "CustomDecorationSetElement",
+      "6209253169974860545": "CustomDecorationValueElement",
+      "6698109908456442505": "RegistryProgressUpdateView",
+      "9573064454867270454": "LimitedDecorationBonusInfo",
+      "6177697049316555955": "LimitedDecorationLocalisation",
+      "12590314610283885495": "CCustomDecorationIndicator",
+      "14628255739247086484": "CGivesCustomDecoration",
+      "8176178348627832160": "SDecoIndicatorForceUpdate",
+      "3053384495741730510": "CShouldDecoIndictorForceUpdate",
+      "16426222885727280906": "SCustomThemesList",
+      "1439784431800696694": "CParameterDisplayDelay"
+    }
+  },
+  "2985758726": {
+    "Name": "Inferno",
+    "ID": 2985758726,
+    "UnityTypeHashes": {
+      "8820680055543305351": "FireEffectControllerView",
+      "5521617506929859888": "ItemOnFireView",
+      "3869824941451098834": "CItemOnFire",
+      "13416492076089340383": "COrderFramesDelay",
+      "3371147404241036808": "CDestroyItemOnFireDuration",
+      "10322027317436037816": "CFlammableItemsModifier",
+      "13093062617930219204": "CFireOrderChance",
+      "12047524754189543362": "CFireSpreadModifier",
+      "9063286713814272224": "CCatchFireOnFailurePyromania",
+      "11182717636965047783": "CScheduledMassFire",
+      "9051096292014323476": "CFireStarterProvider",
+      "8400877441568743661": "CFireStarter",
+      "1105368799196217339": "CFireImmuneMenuItem",
+      "11312755572558221726": "SWildfiresTimeTracker",
+      "16765435402200809889": "CHasBeenDestroyed",
+      "5114046952398920578": "SExtraShopBlueprints",
+      "17797012208151741567": "SInfernoRestaurant",
+      "11615634244502839743": "CPerformed",
+      "11373063434973443866": "SPerformed",
+      "1878251270205904412": "SPerformed",
+      "10995516501056424649": "CNoBadProcessesPlaceholder"
+    }
+  },
+  "2983985681": {
+    "Name": "Sledgehammer",
+    "ID": 2983985681,
+    "UnityTypeHashes": {
+      "12229559622145737005": "WallReplacedView",
+      "11362081121788424503": "CSledgehammer",
+      "17303395259654186075": "CWallReplaced"
+    }
+  },
+  "2982946569": {
+    "Name": "Toggle Act",
+    "ID": 2982946569,
+    "UnityTypeHashes": {
+      "4553952443664891796": "ToggleActIndicatorView",
+      "17122187538770078250": "CActLookedAt"
+    }
+  },
+  "2971197941": {
+    "Name": "PatchMaster",
+    "ID": 2971197941,
+    "UnityTypeHashes": {
+      "3042366703212269022": "ComponentAccesserUtil"
+    }
+  },
+  "2968120727": {
+    "Name": "In-Game Chat",
+    "ID": 2968120727,
+    "UnityTypeHashes": {
+      "91644996583338693": "ChatPreferenceView",
+      "14964602323952728328": "MessageWindowView",
+      "13452390403701342934": "SChatWindow",
+      "15481895004221431041": "SChatWindowPref",
+      "1220665353170052387": "CMessageRequest",
+      "13228775668621507248": "CMessageWindow",
+      "9100362042723370981": "CMessageWindowPreference",
+      "15845109283898838833": "CMessage"
+    }
+  },
+  "2965991611": {
+    "Name": "Musically",
+    "ID": 2965991611,
+    "UnityTypeHashes": {
+      "10822713274812467627": "MusicalInstrumentView",
+      "17862740743034265940": "CGrabPressed",
+      "9138159984165665372": "CActPressed",
+      "4938957654361983509": "CNotifyPressed",
+      "1293807912006172188": "CMusicalInstrument"
+    }
+  },
+  "2965040288": {
+    "Name": "AutomationPlus - Event Version",
+    "ID": 2965040288,
+    "UnityTypeHashes": {
+      "11178164687500383018": "CSpecificType",
+      "16006724202555110400": "SMakeSpaceOutside",
+      "12398436697897500790": "SIsSpecificTypeInhibitSystemRunning"
+    }
+  },
+  "2961991330": {
+    "Name": "PlateUp! Planner Integration",
+    "ID": 2961991330,
+    "UnityTypeHashes": {
+      "8730514406347937368": "ImportGUIManager",
+      "18040778786252936214": "SExportRequest",
+      "3595760497508793820": "SImportRequest",
+      "886134231247027126": "SImportCheckRequest",
+      "12845024171518691644": "SStaticImportRequest"
+    }
+  },
+  "2961930514": {
+    "Name": "Random Customer Colors",
+    "ID": 2961930514,
+    "UnityTypeHashes": {
+      "10876722553118491077": "RandomColorCustomerView",
+      "2347509426267570854": "CCustomerColor"
+    }
+  },
+  "2957324159": {
+    "Name": "Easter Event",
+    "ID": 2957324159,
+    "UnityTypeHashes": {
+      "15311870500818275363": "ChildCustomerView",
+      "654913585160194385": "CGroupHasOrderedThree",
+      "4232914944973512163": "CChildCustomer",
+      "255412543334947590": "CEggBasketRestrictions",
+      "13883815187480415696": "CChildrensMessMade",
+      "6889929607255729711": "Marker"
+    }
+  },
+  "2956266506": {
+    "Name": "Stuff On Demand",
+    "ID": 2956266506,
+    "UnityTypeHashes": {
+      "13539569614806795999": "SpawnGUI",
+      "9271102807676499472": "SpawnRequestView",
+      "1019811534321222708": "ActiveSpawnRequestView",
+      "9435985709840220891": "SSpawnRequestView"
+    }
+  },
+  "2954314402": {
+    "Name": "More Twitch Interactions",
+    "ID": 2954314402,
+    "UnityTypeHashes": {
+      "6969985373096850508": "CustomTwitchOptionView",
+      "5555793875831636234": "SResetCustomOrders",
+      "14636622968364112756": "COption",
+      "17060597788858779914": "CCustomOrder"
+    }
+  },
+  "2952608051": {
+    "Name": "In-Game Timer",
+    "ID": 2952608051,
+    "UnityTypeHashes": {
+      "12619563353676698957": "InGameTimerView",
+      "5019813270272584476": "SServedGroups",
+      "7941742263885761548": "CGroupLeavingRecorded",
+      "450732521625955324": "STimer"
+    }
+  },
+  "2951652474": {
+    "Name": "LaunchIt!",
+    "ID": 2951652474,
+    "UnityTypeHashes": {
+      "15313893999110210972": "CannonView",
+      "14431187056093246444": "ChannelView",
+      "976120747500143625": "LauncherView",
+      "16893783504046712524": "TrampolineView",
+      "16932302116357905155": "VariableLauncherView",
+      "14481631183450036059": "CCannon",
+      "9836328591509737439": "CChannelUser",
+      "11621922825028416496": "CForceFixedRotation",
+      "633179926220474356": "CItemLauncher",
+      "14373709050343664918": "CRangeMarker",
+      "2924770806040953856": "CTrampoline",
+      "5060245622811908793": "CVariableLauncher"
+    }
+  },
+  "2951368458": {
+    "Name": "PlayerModelLib [Birthday Update Compatibility]",
+    "ID": 2951368458,
+    "UnityTypeHashes": {
+      "18437507822407619199": "CustomPlayerModelView",
+      "17488341660298295013": "PlayerModel",
+      "6624453938798203280": "CPlayerModelStatue",
+      "1603333727956317615": "CPlayerModelView"
+    }
+  },
+  "2949018507": {
+    "Name": "PreferenceSystem",
+    "ID": 2949018507,
+    "UnityTypeHashes": {
+      "18398391911020851848": "UniversalBehaviour",
+      "9332125844895003756": "CEffectPreferenceCondition",
+      "15277003380172840633": "SPreferenceSetCheck"
+    }
+  },
+  "2946952733": {
+    "Name": "Deconstructor",
+    "ID": 2946952733,
+    "UnityTypeHashes": {
+      "14973014396561739886": "BlinkingLED",
+      "1579509912405293228": "DeconstructorView",
+      "1268114110334153": "CLockDurationTimeOfDay",
+      "1594277500279690359": "CIDeconstruct",
+      "13758137846125633123": "CStoredPlates",
+      "9561591722874369031": "CStoredTables"
+    }
+  },
+  "2940542586": {
+    "Name": "Cake for Dinner?!",
+    "ID": 2940542586,
+    "UnityTypeHashes": {
+      "8930137763485121125": "UnkneadedChocolateCakeBatterItemGroupView",
+      "7161587434173873566": "ChocolateCakeItemGroupView",
+      "13937872929899776440": "PortionableCheesecakeItemGroupView",
+      "5239348482464609685": "PortionableChocolateCakeItemGroupView",
+      "12293144820623919528": "PortionableStrawberryCakeItemGroupView",
+      "2308981461078786043": "StrawberryCakeItemGroupView",
+      "15561344997494626850": "CakeItemGroupView",
+      "12757816437121999425": "PortionableCakeItemGroupView",
+      "11887506901067273932": "CompletableItemGroupView",
+      "15396636038421389121": "CSplittableDepletedDelay"
+    }
+  },
+  "2945673978": {
+    "Name": "Roast Pork",
+    "ID": 2945673978,
+    "UnityTypeHashes": {
+      "16515583063702051910": "PlatedPorkChopWithToppingsItemGroupView",
+      "2867273191124645507": "CookedShoulderView"
+    }
+  },
+  "2945198367": {
+    "Name": "Manual Labor Plus",
+    "ID": 2945198367,
+    "UnityTypeHashes": {
+      "5365329980422602343": "CGivesExtraCopies",
+      "14949827625679153683": "CIsCopiedAppliance"
+    }
+  },
+  "2945125485": {
+    "Name": "Island Foods",
+    "ID": 2945125485,
+    "UnityTypeHashes": {
+      "220129321007839915": "GravyPotCookedItemView",
+      "5962417101999499148": "LocoMocoItemGroupView",
+      "14608954613848415030": "SpamItemGroupView",
+      "4837668008249816517": "SpamRawItemView",
+      "2518721138559416012": "GravyPotItemGroupView",
+      "4014056253226108802": "SpamMusubiItemGroupView",
+      "8201092518552218571": "SpamItemGroupView"
+    }
+  },
+  "2943871582": {
+    "Name": "Universal Providers",
+    "ID": 2943871582,
+    "UnityTypeHashes": {
+      "2180172143434000480": "GlobalProviderView",
+      "2412584942744324970": "UniversalProviderView",
+      "2704525941818055652": "CGlobalProvider",
+      "11018091239783316846": "CUniversalProvider"
+    }
+  },
+  "2943849129": {
+    "Name": "Why Would You Order That?",
+    "ID": 2943849129,
+    "UnityTypeHashes": {
+      "14846456135748278372": "ComponentAccesserUtil",
+      "17166726900744837842": "StewItemGroupView",
+      "18289771955272751427": "CHasIngredientsForStew"
+    }
+  },
+  "2943590388": {
+    "Name": "Appliance Chest",
+    "ID": 2943590388,
+    "UnityTypeHashes": {
+      "17060918760488218337": "ApplianceStorageView",
+      "7233801271689317022": "StoredAppliancesInfoView",
+      "7785894304058111174": "CLockDurationTimeOfDay",
+      "1068940836513431891": "CIsLockedApplianceStorage",
+      "4428491099285937678": "CApplianceStorageUnlockRequest",
+      "8891903701361204000": "CApplianceStorageInfo",
+      "784318342804163033": "CStoredPlates",
+      "1998619533725102581": "CStoredTables",
+      "11969269928390539180": "CApplianceStorage",
+      "1953559721290605663": "CPopulateApplianceStorage"
+    }
+  },
+  "2943382135": {
+    "Name": "Sloppy Steaks",
+    "ID": 2943382135,
+    "UnityTypeHashes": {
+      "18158130135696100342": "ComponentAccesserUtil"
+    }
+  },
+  "2942369668": {
+    "Name": "Blarglebrew - Beer Mod",
+    "ID": 2942369668,
+    "UnityTypeHashes": {
+      "9654973247135213002": "FermenterView",
+      "558368364695766372": "KegeratorView",
+      "10235294983699489014": "ConditionallyPaidProviderView",
+      "13821467068405451289": "PumpkinBoilingItemGroupView",
+      "2623610945388906557": "PumpkinFinishedItemGroupView",
+      "9482693156154853327": "PumpkinMashUnheatedItemGroupView",
+      "5079201050251039292": "MicheladaItemGroupView",
+      "1167870596664046501": "TomatoJuiceUnmixedItemGroup",
+      "14313761305997649736": "WheatBeerWithOrangeItemGroupView",
+      "4694936210561970650": "PickledEggItemGroupView",
+      "8832647040904936863": "BeergaritaItemGroup",
+      "9740726972794805733": "TequilaAndLimeItemGroup",
+      "13126644785977822539": "BeerBottleWithLimeItemGroupView",
+      "13138261200067203765": "BeermosaItemGroupView",
+      "13349289634829156163": "StoutFloatItemGroupView",
+      "6694749251887816459": "WheatBeerWithOrangeItemGroupView",
+      "15822642751042908214": "ExtractFinishedItemGroupView",
+      "10917685416360694678": "UncookedExtractItemGroupView",
+      "6951077798286924602": "ExtractBoilingItemGroupView",
+      "13920840365436336023": "WheatBoilingItemGroupView",
+      "6823867235375129247": "WheatFinishedItemGroupView",
+      "8183789115677003925": "WheatMashUnheatedItemGroupView",
+      "9904298882357714494": "CConditionallyPaidProvider",
+      "5422229626033167581": "CFermenterState",
+      "15312423489426945917": "CNewlySpawnedFermenter",
+      "7241654712744218169": "CCleanEmptyKeg",
+      "7203050025089689717": "CFinishedFerment",
+      "3711196705298660849": "CKeg",
+      "14820292585087460422": "CKegColor",
+      "8100930441166104547": "CKegeratorState",
+      "7654884145508903580": "CKegProvider"
+    }
+  },
+  "2941406923": {
+    "Name": "Say Cheeese!",
+    "ID": 2941406923,
+    "UnityTypeHashes": {
+      "17691372168515900456": "ScreenshotCamera"
+    }
+  },
+  "2940770184": {
+    "Name": "Trays Plus(Deprecated)",
+    "ID": 2940770184,
+    "UnityTypeHashes": {
+      "13294836636570408873": "CRestrictedToolStorage"
+    }
+  },
+  "2940111594": {
+    "Name": "Purr Bliss",
+    "ID": 2940111594,
+    "UnityTypeHashes": {
+      "57983905548206294": "VisualEffectWhilePettingView",
+      "11771292789825548422": "SExtraChairAttempted",
+      "8086945007943431462": "SSpawnedCats",
+      "2385381692409980634": "CIsBeingPetted"
+    }
+  },
+  "2938492456": {
+    "Name": "Drag N' Drop Designer",
+    "ID": 2938492456,
+    "UnityTypeHashes": {
+      "7664321242862835948": "MouseInputView",
+      "904985670696082974": "CPickedUpByMouse",
+      "1328328587946358794": "CPerformedThisFrame",
+      "677767002719953713": "CMouseData",
+      "3706010328801103647": "CCachedRotation",
+      "14283358564476783905": "CPurchaseProgress",
+      "18042604274008197591": "CLinkedInteractionProxy",
+      "11995847936227159738": "CInteractionProxyMarker"
+    }
+  },
+  "2937349249": {
+    "Name": "Burrito Bandido",
+    "ID": 2937349249,
+    "UnityTypeHashes": {
+      "12517518728332501511": "SidesDetector",
+      "12974473021127742088": "BurritoWithExtrasAssembledItemGroupView",
+      "4887749039126810183": "BurritoWithExtrasFoilWrappedItemGroupView",
+      "10705782308338991526": "BurritoWithExtrasInaBasketItemGroupView",
+      "12791105869678713616": "BeefBurritoWithExtrasAssembledItemGroupView",
+      "5842653587649064991": "BeefBurritoWithExtrasFoilWrappedItemGroupView",
+      "16820147539319065374": "BeefBurritoWithExtrasInaBasketItemGroupView",
+      "15940610972143772724": "BeefBurritoAssembledItemGroupView",
+      "3522130429132919531": "BeefBurritoFoilWrappedItemGroupView",
+      "16642999595179724882": "BeefBurritoInaBasketItemGroupView",
+      "12525874226672796006": "BaseBurritoAssembledItemGroupView",
+      "4740569591912426256": "BurritoFoilWrappedItemGroupView",
+      "7312090733442705241": "BurritoInaBasketItemGroupView",
+      "1662644504085060513": "ComponentAccesserUtil"
+    }
+  },
+  "2937060763": {
+    "Name": "FlipUp!",
+    "ID": 2937060763,
+    "UnityTypeHashes": {
+      "11347440810448370329": "FlipUpCounterView",
+      "12011641642594359028": "CFlipUpCounterState"
+    }
+  },
+  "2934088024": {
+    "Name": "ApplianceLib",
+    "ID": 2934088024,
+    "UnityTypeHashes": {
+      "15702198272459197401": "DummyItemGroupView",
+      "14368501306726447594": "FlexibleColorableContainerView",
+      "16256805325999985061": "FlexibleContainerView",
+      "8693111874833046426": "VariableProcessView",
+      "10389422375149324928": "ExpandedVariableProviderView",
+      "10786921135438545557": "CAutomatedApplianceInteractor",
+      "2747911640607048528": "CAutomatedApplianceInteractorProvider",
+      "13284460542202758984": "CAutomatedApplianceInteractorReciever",
+      "12829353666104040927": "CAppliesProcessToFlexible",
+      "17104114912440864553": "CFlexibleContainer",
+      "6845057517932690197": "CPreventUseWhenEmpty",
+      "13086281241790348548": "CRestrictedSplitter",
+      "15666420342930373549": "CChangeRestrictedReceiverKeyAfterDuration",
+      "4348450548571700108": "CChangeRestrictedReceiverKeyWhenEmpty",
+      "18106514969100122796": "CRestrictedReceiver",
+      "13517170221348560039": "CVariableProcessContainer",
+      "7982840046698973424": "CExpandedVariableProvider"
+    }
+  },
+  "2933854869": {
+    "Name": "American Breakfast",
+    "ID": 2933854869,
+    "UnityTypeHashes": {
+      "2494847558191107454": "HashBrownsWokItemGroupView",
+      "6586995331924282764": "OrangeJuiceView",
+      "5798850747645183234": "MixedEggItemGroupView",
+      "16585834789081334951": "ScrambledEggWokCookedItemView",
+      "6337916106305643301": "ScrambledEggWokItemGroupView",
+      "16383182278695123446": "CerealItemGroupView",
+      "12293479797946178749": "OatmealItemGroupView",
+      "1265008512917275590": "OatmealPotItemGroupView",
+      "1097201129122646172": "OatmealPotCookedItemView",
+      "16781847063828582439": "PlatedOatmealCookedItemView",
+      "1520719875999017646": "PlatedCerealItemGroupView",
+      "8320219699109609984": "CookedBaconCheeseOmeletteItemGroupView",
+      "8477852214468730645": "CookedMushroomOnionOmeletteItemGroupView",
+      "13159350821048679986": "CookedTomatoSpinachOmeletteItemGroupView",
+      "7130417468982679418": "PlatedOmelettesItemGroupView",
+      "14244925322174997633": "PlatedQuicheItemGroupView",
+      "17875425932126050223": "UncookedQuicheItemGroupView",
+      "9247692433018289111": "AmericanBreakfastItemGroupView",
+      "17640748885460777220": "UnmixedBatterItemGroupView"
+    }
+  },
+  "2932856247": {
+    "Name": "Customer Group Spawner",
+    "ID": 2932856247,
+    "UnityTypeHashes": {
+      "2182199339005043522": "SSpawnerSettings"
+    }
+  },
+  "2929164692": {
+    "Name": "Soups Plus",
+    "ID": 2929164692,
+    "UnityTypeHashes": {
+      "1702656721005488852": "FrenchOnionSoupPotItemGroupView",
+      "9366151062866477533": "MisoSoupPotItemGroupView",
+      "2666914867442990183": "MisoSoupPotCookedItemView",
+      "5861484228803823137": "SoybeanPotItemGroupView",
+      "4846937777369064264": "FrenchOnionSoupPotCookedItemView",
+      "12343998457521180500": "ChickenNoodleSoupPotItemGroupView",
+      "4432758297489380446": "ChickenNoodleSoupPotCookedItemView"
+    }
+  },
+  "2928449724": {
+    "Name": "TrashToCash",
+    "ID": 2928449724,
+    "UnityTypeHashes": {
+      "12124769206715011619": "ApplianceSellPriceView"
+    }
+  },
+  "2928023216": {
+    "Name": "The Modded Kitchen",
+    "ID": 2928023216,
+    "UnityTypeHashes": {
+      "12374218197424005008": "MyItemGroupView",
+      "15383668676357186022": "SOTDItemView",
+      "105041890039065921": "MyItemGroupView",
+      "3419865595078282320": "MyItemGroupView",
+      "17360683637540779101": "MyItemGroupView",
+      "11407523524487507542": "MyItemGroupView",
+      "4342570776024485252": "BaconSideItemView",
+      "7272467696838199818": "MyItemGroupView",
+      "13262131914469559643": "MyItemGroupView",
+      "9218049889543907555": "LasagnaItemView",
+      "18374541059317445895": "MyItemGroupView",
+      "11360202856490889347": "ChiliItemView",
+      "2908894975159147799": "MyItemGroupView",
+      "12667932808606333788": "CookedCornBreadItemView",
+      "14850840514766571922": "MyItemGroupView",
+      "14426750918901362672": "MyItemGroupView",
+      "5888967233821655107": "MyItemGroupView",
+      "16296716717743117855": "DeluxeChiliItemView",
+      "6788652009572590146": "MyItemGroupView",
+      "14952203633321043842": "ChiliDogItemGroupView",
+      "7002287430832562262": "RicePuddingPotItemGroupView",
+      "16654428139762676756": "RicePuddingPotCookedItemView",
+      "13036774947892778552": "BananaBreadLoafItemView",
+      "4389106533619418340": "MyItemGroupView",
+      "6890043249403299994": "MyItemGroupView",
+      "13395084851679486877": "MyItemGroupView"
+    }
+  },
+  "2927654156": {
+    "Name": "CountUp!",
+    "ID": 2927654156,
+    "UnityTypeHashes": {
+      "3527517191212134925": "ApplianceCountView",
+      "6528725963017236317": "ItemIconView"
+    }
+  },
+  "2927629287": {
+    "Name": "Boxed Mac and Cheese",
+    "ID": 2927629287,
+    "UnityTypeHashes": {
+      "14245645262086487030": "ItemGroupViewAccessed",
+      "5939293773445555592": "ItemGroupViewAccessed"
+    }
+  },
+  "2927047484": {
+    "Name": "Restart Day (Soft Opening)",
+    "ID": 2927047484,
+    "UnityTypeHashes": {
+      "323536842216813031": "SoftOpenMod"
+    }
+  },
+  "2925956268": {
+    "Name": "Cards Manager",
+    "ID": 2925956268,
+    "UnityTypeHashes": {
+      "17536975296693814639": "UnlockCardState",
+      "2056033091766931525": "SAddingByCardsManager"
+    }
+  },
+  "2924660838": {
+    "Name": "Mini Cafe",
+    "ID": 2924660838,
+    "UnityTypeHashes": {
+      "4827611969347955876": "DualLimitedSourceView",
+      "2404259527581366415": "ItemProcessView",
+      "967808800778902232": "LocalLimitedItemSourceView",
+      "10716792560366506318": "View",
+      "13492900328479100458": "CCombinesOnSelf",
+      "7111962792317825104": "CItemProviderPreventTransfer",
+      "6554472278001290971": "COverfills",
+      "13186215309642741073": "CComponentSplitDepleted",
+      "7792512947345186878": "CDualLimitedProvider",
+      "4798417844798566003": "CInvertedPlacement",
+      "4712597427213576437": "CPreventTransferDuringDuration",
+      "4735875919509078739": "CRefillOnEmpty",
+      "6330543849548887571": "CRefillOnEmptySurrogate",
+      "12699661864524545419": "CSpillsOnFail"
+    }
+  },
+  "2924111603": {
+    "Name": "Layout Generator",
+    "ID": 2924111603,
+    "UnityTypeHashes": {
+      "18174924357197209544": "LayoutGeneratorCabinetView",
+      "14435516516919641138": "LayoutGeneratorView",
+      "17962926091363874957": "CDisabledLayoutUpgrade",
+      "2507292018591199280": "CLayoutGeneratorButton",
+      "14252280111488388264": "CLayoutGeneratorCabinet",
+      "3849077205822985887": "CLayoutGeneratorDesk",
+      "2756027830828306044": "CLayoutProfile",
+      "8009463381743751270": "CLayoutSlotLock",
+      "13716955536771374533": "CMapItemStore",
+      "2852562684987311423": "SGenerateLayoutRequest"
+    }
+  },
+  "2922412179": {
+    "Name": "AutomationPlus",
+    "ID": 2922412179,
+    "UnityTypeHashes": {
+      "8992582707451703421": "ConveyItemsViewReversible",
+      "7150699335211769501": "CAutomatedRequireActivation",
+      "31467522647823103": "CSingleStepAutomation",
+      "7958396696752565458": "CAutoConveyRotate",
+      "15329406861815472441": "CSpecificType",
+      "13299462363202917275": "CConveyPushItemsReversible",
+      "18100684498652873739": "SMakeSpaceOutside",
+      "5044875888565432477": "SIsSpecificTypeInhibitSystemRunning",
+      "11720638871634299983": "COrphanedTeleporter",
+      "974985871602189543": "CDynamicChangeProvider",
+      "3994757936413140315": "CPseudoProcessDuration",
+      "7431692300016550575": "CEffectPreferenceConditional",
+      "8018606902989895848": "CHasActivated",
+      "16797510328740899365": "SDirtyPlatesProvider"
+    }
+  },
+  "2921273766": {
+    "Name": "Staples Can Reroll",
+    "ID": 2921273766,
+    "UnityTypeHashes": {
+      "17529857995688899521": "CustomComponent"
+    }
+  },
+  "2920729026": {
+    "Name": "Cat Disco",
+    "ID": 2920729026,
+    "UnityTypeHashes": {
+      "13458422808998383516": "CCatDiscoCooldown"
+    }
+  },
+  "2919779739": {
+    "Name": "Smart Grabbers Were \"Bugged\"",
+    "ID": 2919779739,
+    "UnityTypeHashes": {
+      "15652680901030964649": "CBlockPush"
+    }
+  },
+  "2919741483": {
+    "Name": "Unity Explorer",
+    "ID": 2919741483,
+    "UnityTypeHashes": {
+      "18398391911020851848": "UniversalBehaviour",
+      "15838820550293047620": "ExplorerBehaviour",
+      "10097838970567279143": "FreeCamBehaviour",
+      "15846931485582268477": "ExplorerEditorBehaviour"
+    }
+  },
+  "2918753610": {
+    "Name": "Persistent Mess",
+    "ID": 2918753610,
+    "UnityTypeHashes": {
+      "6884596764882289759": "CustomComponent"
+    }
+  },
+  "2917023777": {
+    "Name": "DrinkUp! - Drinks Mod",
+    "ID": 2917023777,
+    "UnityTypeHashes": {
+      "6180416983525262232": "SmoothieItemGroupView",
+      "2968741292135613386": "BlenderCupItemGroupView",
+      "8547373947025186907": "MilkshakeItemGroupView",
+      "99876414960114949": "FloatItemGroupView",
+      "18233289690118521226": "CompletableItemGroupView",
+      "11422672657238543537": "IceCreamInCupItemGroupView",
+      "5291071194423769012": "BobaPotItemView",
+      "8825318895575929891": "UncookedBobaPotView",
+      "7249636077818588149": "ServedBobaView",
+      "2879954503828965500": "SodaProviderProcessView",
+      "1944829028969255777": "TeaProviderProcessView",
+      "15579669137768787674": "CVariableProcessContainer"
+    }
+  },
+  "2913877103": {
+    "Name": "IngredientLib",
+    "ID": 2913877103,
+    "UnityTypeHashes": {
+      "12423289039693375768": "View",
+      "279914826363648117": "View",
+      "4078931976495433895": "View",
+      "5115853968348318530": "ItemGroupViewAccessed",
+      "6332278111394945727": "ItemGroupViewAccessed",
+      "263643350597326154": "View",
+      "13780678589968314111": "CRepairAfterDuration",
+      "6088336375080584400": "SCheckForRepair",
+      "8767089210245202132": "SRequestRepair",
+      "9597384860957272921": "SRepair",
+      "5953376706911483146": "CPickupIgnoresHolder"
+    }
+  },
+  "2913433656": {
+    "Name": "Customers Grab Food",
+    "ID": 2913433656,
+    "UnityTypeHashes": {
+      "188151541416977852": "CCustomersPlaced",
+      "15371938523361735047": "CCustomerCardinalGrabPoints"
+    }
+  },
+  "2909998068": {
+    "Name": "Custom Difficulty",
+    "ID": 2909998068,
+    "UnityTypeHashes": {
+      "479910037210181124": "PlayerCollisionSubview",
+      "2003106990504741829": "SGlobalShopDiscount",
+      "4432235701636719003": "SResetRerollCostDaily",
+      "3239680003500538881": "SCacheGroupSize"
+    }
+  },
+  "2898574673": {
+    "Name": "BetterSplits",
+    "ID": 2898574673,
+    "UnityTypeHashes": {
+      "1776215514743150413": "SSplitOnStart",
+      "16517699286354101105": "SSplitOnGroups",
+      "13189217072226155302": "SSplitOnPurchase"
+    }
+  },
+  "2907649338": {
+    "Name": "Speed MOD",
+    "ID": 2907649338,
+    "UnityTypeHashes": {
+      "14637292614695921713": "IMGUIManager",
+      "1839951146813740218": "CHasCharacterSpeed"
+    }
+  },
+  "2907435921": {
+    "Name": "Seed Explorer",
+    "ID": 2907435921,
+    "UnityTypeHashes": {
+      "15280780261154947174": "SeedGui",
+      "3114817424499029456": "CEraseBox",
+      "3433365401742157429": "CSaveBox",
+      "14246192539530335745": "CSeedBoxData",
+      "13694510802015561101": "CSeedData"
+    }
+  },
+  "2904684179": {
+    "Name": "Midrun Cosmetic Stations",
+    "ID": 2904684179,
+    "UnityTypeHashes": {
+      "7445824610128013959": "SProvided"
+    }
+  },
+  "2901080599": {
+    "Name": "Save Management",
+    "ID": 2901080599,
+    "UnityTypeHashes": {
+      "2408557889944783947": "SaveManager",
+      "14440784829517384010": "CHasGetDayDisplay",
+      "3646975042167978798": "CHasGetVersion"
+    }
+  },
+  "2901012380": {
+    "Name": "Kitchen Designer",
+    "ID": 2901012380,
+    "UnityTypeHashes": {
+      "10806072173715319025": "MissingDependenciesGUIManager",
+      "7389763565659757270": "KitchenDesignerGUIManager"
+    }
+  },
+  "2900092542": {
+    "Name": "💾Save System",
+    "ID": 2900092542,
+    "UnityTypeHashes": {
+      "16178086333359530908": "SaveSystemMod"
+    }
+  },
+  "2898989967": {
+    "Name": "Overcooked Patience",
+    "ID": 2898989967,
+    "UnityTypeHashes": {
+      "4544246044378285279": "SOvercookedStrikes"
+    }
+  },
+  "2898176672": {
+    "Name": "Starting Meal Selector",
+    "ID": 2898176672,
+    "UnityTypeHashes": {
+      "11716870591118257569": "CStartingMealSelectorDish"
+    }
+  },
+  "2898069883": {
+    "Name": "KitchenLib",
+    "ID": 2898069883,
+    "UnityTypeHashes": {
+      "12016576695922623283": "IMColorPreset",
+      "6811723711834438739": "SyncMods",
+      "17329240320473384781": "DevUIController",
+      "15423258257673109498": "KLGridMenuCosmeticConfig",
+      "15331750094299946646": "KLGridMenuHatConfig",
+      "10820900008373358542": "IMMSView",
+      "640249744023732676": "ColourBlindLabelCreatorUtil",
+      "14027573385467240867": "DummyItemGroupView",
+      "11040752862424451015": "CViewHolder",
+      "2572003628685688256": "CCommandView",
+      "13452341845911133565": "CInfoView",
+      "11270805502992304781": "CSendToClientView",
+      "11918157205563419048": "CTileHightlighterView",
+      "11760387991961933453": "CClientEquipCapeView",
+      "2218484592711417313": "CSyncModsView",
+      "8129934944341230967": "SIMMSManager",
+      "5175150273926080061": "SModSync"
+    }
+  },
+  "2898033283": {
+    "Name": "HarmonyX",
+    "ID": 2898033283,
+    "UnityTypeHashes": {
+      "18398391911020851848": "UniversalBehaviour"
+    }
+  }
+}
