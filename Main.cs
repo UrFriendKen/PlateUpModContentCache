@@ -9,7 +9,7 @@ namespace ModContentCache
     {
         public const string MOD_GUID = $"IcedMilo.PlateUp.{MOD_NAME}";
         public const string MOD_NAME = "Mod Content Cache";
-        public const string MOD_VERSION = "0.1.0";
+        public const string MOD_VERSION = "0.1.1";
 
         internal const string FOLDER_NAME = "ModContentCache";
 

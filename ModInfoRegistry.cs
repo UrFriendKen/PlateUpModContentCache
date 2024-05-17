@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Reflection;
 using Unity.Entities;
 
@@ -27,6 +28,9 @@ namespace ModContentCache
                 return _modInfos;
             }
         }
+
+        private static Dictionary<ulong, ModInfo> ModInfosCopy => new Dictionary<ulong, ModInfo>(ModInfos);
+
         public struct ModMetadata
         {
             public string Name;
@@ -173,21 +177,55 @@ namespace ModContentCache
                 }
             }
 
-            AddToModInfos(ModPreload.Mods
-                .Where(mod => mod.ID != 0)
-                .Select(ModInfo.FromMod));
-
-            if (TryReadFromPreload(out var preloadModInfos))
+            Main.LogInfo("Loading mod mod info of currently installed mods...");
+            Dictionary<ulong, ModInfo> prevModInfos = ModInfosCopy;
+            try
             {
-                AddToModInfos(preloadModInfos.Values);
+                AddToModInfos(ModPreload.Mods
+                    .Where(mod => mod.ID != 0)
+                    .Select(ModInfo.FromMod));
+            }
+            catch
+            {
+                Main.LogError("A mod is corrupted! Reverting and skipping.");
+                _modInfos = ModInfosCopy;
             }
 
+            Main.LogInfo("Loading global cached mod info...");
+            prevModInfos = ModInfosCopy;
+            if (TryReadFromPreload(out var preloadModInfos))
+            {
+                try
+                {
+                    AddToModInfos(preloadModInfos.Values);
+                }
+                catch
+                {
+                    Main.LogError("Preloaded Mod Info is corrupted! Reverting and skipping.");
+                    _modInfos = ModInfosCopy;
+                }
+            }
+
+            Main.LogInfo("Loading global cached mod info...");
             foreach (string filename in new string[] { SAVE_FILE_NAME })
             {
                 if (TryLoadFromFile(filename, out var modInfos))
-                    AddToModInfos(modInfos.Values);
+                {
+                    try
+                    {
+                        AddToModInfos(modInfos.Values);
+                    }
+                    catch
+                    {
+                        Main.LogError("Local Mod Info cache is corrupted! Reverting and skipping.");
+                        _modInfos = ModInfosCopy;
+                        continue;
+                    }
+                    prevModInfos = ModInfosCopy;
+                }
             }
 
+            Main.LogInfo("Saving all mod info to local cache...");
             File.WriteAllText(Path.Combine(Main.FolderPath, SAVE_FILE_NAME), JsonConvert.SerializeObject(_modInfos.Where(kvp => kvp.Value.HasContent).ToDictionary(kvp => kvp.Key, kvp => kvp.Value), Formatting.Indented));
         }
 
